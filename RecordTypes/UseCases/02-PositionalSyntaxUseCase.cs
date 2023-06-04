@@ -19,9 +19,9 @@ public class PositionalSyntaxUseCase {
 
         //è possibile utilizzare  i named arguments per bypassre l'ordine posizionale dei parametri del costruttore e migliorare la leggibilità del codice 
         var golf2 = new Veicolo(
-            Targa: "Golf",
+            Targa: "XX123XX",
             Marca: "Volkswagen", 
-            Modello: "XX123XX"            
+            Modello: "Golf"            
         );
     }
 
